@@ -1,16 +1,7 @@
-# futurefinder_flutter
+# Future Finder
 
-A new Flutter project.
+경제 진로 고민을 함께 해결하며 사회로 나아가는 첫 걸음을 돕는 청년 맞춤형 커리어 가이드 플랫폼, futurefinder-FE Repository
 
-## Getting Started
+BE : https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_85_BE
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FE : https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_85_FE
