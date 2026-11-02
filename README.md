@@ -4,7 +4,7 @@
 
 2025 시즌톤 85팀의 Flutter 프론트엔드 프로젝트입니다. 금융·자산, 주택 청약, 일자리 정보를 한곳에 모으고 경제 용어 검색과 사용자별 정보 화면을 제공합니다.
 
-이 저장소는 [팀 프론트엔드 저장소](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_85_FE)의 fork입니다. 관련 백엔드는 [BE 저장소](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_85_BE)에서 확인할 수 있습니다.
+[백엔드 저장소](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_85_BE)
 
 ## 주요 기능
 
